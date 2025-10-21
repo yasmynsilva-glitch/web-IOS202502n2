@@ -1,0 +1,13 @@
+.frutas{
+    background-image: url(frutas.jpg);
+}
+.carros{
+    background-image: url(https://cdn.motor1.com/images/mgl/br7lw/s4/volkswagen-jetta-gli-2-0-tsi-brasil.webp);
+}
+
+.listas{
+    height: 600px;
+    width: 700px;
+    color: white;
+    font-size: 45px;
+}
