@@ -1,0 +1,25 @@
+/* para usar uma fonte da internet podemos usar o @import do site especificado. No exemplo abaixo utilizamos uma nova font-family */
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+h2 {
+    font-family: "Lobster Two", sans-serif;
+    font-size: 60px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-shadow: -10px 20px 5px darkred;
+    /*
+    text-shandow:
+    1° valor: deslocamento horizontal
+    2° valor: deslocamento vertical
+    3° valor: desfoque
+    4° valor: cor da sombra
+    
+    */
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 800px;
+}

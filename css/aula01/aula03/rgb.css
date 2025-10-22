@@ -1,0 +1,23 @@
+body{
+
+    background-image: url("https://preview.redd.it/meu-gato-%C3%A9-praticamente-o-gato-do-meme-v0-n9dleoj8dgfc1.jpg?width=640&crop=smart&auto=webp&s=52de2578fe227e639db822d551bba33c6d28a2f1") ;
+    background-size: cover;
+}
+
+#red{
+    color: darkred;
+}
+#green{
+    color: rgb(39, 88, 39);
+}
+#blue{
+    color: rgb(31, 82, 144);
+}
+h2{
+
+    font-size: 50px;
+    color: rgb(90,25,255);
+}
+p{
+    color: #5a19ff;
+}
