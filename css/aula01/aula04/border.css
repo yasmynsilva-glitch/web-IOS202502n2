@@ -1,0 +1,16 @@
+
+h1{
+    /* border-width determina o tamanho da borda */
+    border-width: 10px;
+   /*  border-color determina a cor da borda */
+    border-color: darkred;
+   /* border-style determina o formato da borda */
+    border-style: inset;
+}
+/*  podemos criar bordas de maneira abreviada recebendo 3 valores como:
+tamanho (10px)
+color (dark red)
+tipo (inset) */
+p{
+    border: 10px darkred inset; 
+}
